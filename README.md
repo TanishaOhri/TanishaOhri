@@ -14,9 +14,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TanishaOhri&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TanishaOhri)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TanishaOhri)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TanishaOhri)
 
 ![GitHub metrics](https://metrics.lecoq.io/TanishaOhri)  
 
