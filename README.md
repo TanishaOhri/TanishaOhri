@@ -12,8 +12,9 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishaohri&show_icons=true&locale=en&layout=compact" alt="tanishaohri" /></p>
 <br>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishaohri&show_icons=true&locale=en" alt="tanishaohri" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishaohri&show_icons=true&locale=en" alt="tanishaohri" /></p>
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishaohri&" alt="tanishaohri" /></p>
