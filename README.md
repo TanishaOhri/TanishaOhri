@@ -16,11 +16,10 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TanishaOhri)
 
-![Profile views](https://gpvc.arturio.dev/TanishaOhri)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TanishaOhri)
 
 ![GitHub metrics](https://metrics.lecoq.io/TanishaOhri)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TanishaOhri)
-
+![Profile views](https://gpvc.arturio.dev/TanishaOhri)
   
 
