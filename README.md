@@ -21,6 +21,5 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/TanishaOhri)  
 
-![Profile views](https://gpvc.arturio.dev/TanishaOhri)
   
 
